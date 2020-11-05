@@ -16,6 +16,7 @@
 	top: 0;
 	left: 0;
 	background: rgba(0,0,0,0.4);
+	flex-direction: column;
 }
 .navbar .logo{
 	width: 150px;
@@ -91,6 +92,7 @@
 .buttons button:hover{
 	background: #cc0000;
 }
+
 .content {
 	display: flex;
 }
